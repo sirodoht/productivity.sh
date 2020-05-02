@@ -1,5 +1,5 @@
 # productivity.sh
 
 ```sh
-git clone https://github.com/sirodoht/productivity.sh.git && cd productivity.sh && ./productivity.sh
+curl https://raw.githubusercontent.com/sirodoht/productivity.sh/master/productivity.sh | sh
 ```
